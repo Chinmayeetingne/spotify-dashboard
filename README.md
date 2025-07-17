@@ -64,7 +64,7 @@ This Power BI Dashboard provides deep insights into the global Spotify streaming
 
 ## 🔗 GitHub Repository
 
-👉 [GitHub Link to Project](https://github.com/Chinmayeetingne/Spotify-PowerBI-Dashboard) *(replace with your actual repo URL)*
+👉 [GitHub Link to Project](https://github.com/Chinmayeetingne/spotify-dashboard/blob/main/Final_Spotify_Dashboard.pbix) *(replace with your actual repo URL)*
 
 ---
 
